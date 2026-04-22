@@ -31,4 +31,4 @@ Seen this way, the future of analytics is not AI replacing the analyst. It is AI
 
 For analytics, better AI is not just about sounding smarter.
 
-It is about becoming reliable enough to support the analyst without weakening the logic of the work.
+It is about becoming reliable enough to support the analyst, while the analyst still protects the logic, judgment, and final decision.
